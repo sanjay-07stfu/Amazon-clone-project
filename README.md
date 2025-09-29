@@ -19,3 +19,33 @@ A front-end Amazon Clone built using HTML, CSS, and JavaScript. This project rep
 ---
 
 ## 📂 Project Structure
+
+
+
+
+### Skills & Technologies
+- Python Development
+- Java Programming
+- HTML/CSS
+- JavaScript
+- AI Basics
+- Gaming
+- c
+- c++
+- figma
+- canva
+- fast API
+
+### Featured Projects
+- Crop Disease Detection (AI/ML)
+- Full-Stack Web Development
+- Portfolio Website
+
+### Contact
+- Email: yedagesanjay8@gmail.com
+- GitHub: @sanjay-07stfu
+- LinkedIn profile:https://www.linkedin.com/in/sanjay-yedage-9a216934b/
+- Location: Mumbai, India
+
+
+*Built with ❤️ using HTML, CSS & JavaScript*
